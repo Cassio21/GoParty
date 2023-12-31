@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Troca de oléo",
+    "description": "Faça a sua troca de oléo",
+    "price": 130.0,
+    "image": "https://www.eletroarpa.com.br/imgs_eventos/7f5cb-troca-de-oleo-caminhao-cp-fabbri.jpg"
+  },
+  {
+    "name": "Alinhamento e Balanceamento",
+    "description": "O alinhamento e balanceamento são procedimentos essenciais de manutenção veicular",
+    "price": 150.99,
+    "image": "https://www.zuldigital.com.br/blog/wp-content/uploads/2020/06/Alinhamento_Blog_02-1_Easy-Resize.com_.jpg"
+  },
+  {
+    "name": "Som",
+    "description": "Equipe seu veículo com os sons de última geração.",
+    "price": 1300,
+    "image": "https://lojalucasom.com.br/wp-content/uploads/2017/12/conserto-altofalantes-lucasom.jpg"
+  },
+  {
+    "name": "Filtros",
+    "description": "Faça a troca dos filtros do seu veículo sem preocupação.",
+    "price": 200,
+    "image": "https://mundodoslubrificantes.com.br/img/imagem/troca-de-filtro_0d81a4ba1ea583a202bace.jpeg"
+  },
+  {
+    "name": "Troca de Freio",
+    "description": "Realize a manutenção do equipamento de freio, garantindo sua segurança.",
+    "price": 100,
+    "image": "https://img77.uenicdn.com/image/upload/v1584401423/business/c26f405c-563d-4ca4-82df-daa3534de9ce.jpg"
+  },
+  {
+    "name": "Sistema de Arrefecimento",
+    "description": "Cuidados com o sistema de arrefecimento do carro.",
+    "price": 349.99,
+    "image": "https://mercador.blob.core.windows.net/imagens/blog/9/2021/5/0f4a86dc-89b7-432d-a7ec-d27ca62ca569-lg.jpg"
+  },
+  {
+    "name": "Correias",
+    "description": "Realize a troca das correias para evitar problemas futuros.",
+    "price": 350,
+    "image": "https://www.rbautomotivo.com.br/wp-content/uploads/2023/03/img-quando-trocar-correia-dentada-de-motor.jpg"
+  },
+  {
+    "name": "Sistema de Injeção",
+    "description": "O sistema de injeção veicular é uma parte fundamental do sistema de alimentação de combustível em veículos automotores.",
+    "price": 299.99,
+    "image": "https://blog.seg-automotive.com.br/wp-content/uploads/2022/03/carro-sistema-ignicao-eletrico.jpg"
+  },
+  {
+    "name": "Troca de pneus",
+    "description": "Equipe seu carro com os melhores modelos de pneus nacionais e internacionais.",
+    "price": 800,
+    "image": "https://s.zst.com.br/cms-assets/2021/10/trocar-pneu.jpg"
+  },
+  {
+    "name": "Suspensão",
+    "description": "Melhores modelos nacionais e internacionais.",
+    "price": 1500,
+    "image": "https://www.zuldigital.com.br/blog/wp-content/uploads/2021/08/shutterstock_1810803574_Easy-Resize.com_.jpg"
+  },
+  {
+    "name": "Envelopamento",
+    "description": "Mude a estética do seu carro com nosso serviço de envelopamento.",
+    "price": 3400,
+    "image": "https://neycostaautocenter.com.br/wp-content/uploads/2022/05/thumbnail-for-1657552_16179006511.jpg"
+  }
+]
